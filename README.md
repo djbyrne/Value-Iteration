@@ -1,2 +1,2 @@
 # Value-Iteration
-Simple implementation of value iteration using the Frozen Lake Environment
+This notebook takes a look at implementing the value iteration algorithm in order to solve some simple environments
